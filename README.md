@@ -1,2 +1,2 @@
 # Webbrayser
-<img src="Wedbrayser.gif" alt="video demo"/>
+<img src="Webbrayser.gif" alt="video demo"/>
